@@ -7,4 +7,4 @@ Link to Application: https://nodejsapp.reggietestgcpdomain.com/
 
 The application is broken down into the architecture below:
 
-![application](https://github.com/rjones18/Images/blob/main/GCP%20NodeJs.png)
+![applications](https://github.com/rjones18/Images/blob/main/GCP%20NodeJs.png)
