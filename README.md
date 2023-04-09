@@ -1,5 +1,5 @@
 # GCP-Cloud-Run-Nodejs-App
-In this project I deployed a containerized NodeJs application using Cloud Run. I setup continuous deployment by linking Github repository to Cloud Source Repositories and added a Cloud Build Trigger to automatically builds and deploys an updated docker image to Cloud Run. I also used Google Domains to setup a custom domain name for my application.
+In this project, I have successfully implemented a containerized NodeJs application deployment on the Cloud Run platform. I achieved this by configuring continuous deployment, which involves establishing a linkage between the Github repository and Cloud Source Repositories. Furthermore, I integrated a Cloud Build Trigger into the process to automatically generate and deploy updated docker images to Cloud Run. To enhance the project's accessibility and usability, I leveraged Google Domains to create and assign a custom domain name to the application.
 
 Link to Application: https://nodejsapp.reggietestgcpdomain.com/
 
